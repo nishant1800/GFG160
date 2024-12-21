@@ -1,3 +1,6 @@
+// Day 1 / 160
+// https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735
+
 public class SecondLargest {
     public static int getSecondLargest(int arr[]) {
         int largest = -1;
